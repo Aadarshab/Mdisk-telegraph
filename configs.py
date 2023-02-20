@@ -10,7 +10,7 @@ class Config(object):
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5973272980:AAGTcWKkcbsNBgEZ_K2ak-dSA8BIQh94K84")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Telegr_ph_bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQAVhj8PZtprmp31CQAn9c1xMBa29Ct4Vvory4jyP1RrfTrDFexcxmkh-y16XL0PbTC7IcGM1qofMT8KLHQRdiiVqmCBMO2HsJZAvYsJhn1x6c9hcy0jndr6dqMPYZSX6zVmy1AJNVnjs8Jt5rwBIZeXt8ObhIsIxcJcuhyzSpbA4xq67YTBBKDo8N1IE8Ng8KZ6j8MkJgpDuM-2h5KEpiFUzWHCbu3SrKitEvaUot4g6I2g-CFxK3FdzGoG2QeIcCTVjNpv9uducuvTTRiHnEdF9QYWWVy_qyF6wnk90noarVssTDVkwphZHqfghazguLNJM1PCl86_wkhZAuzvjA9iAAAAAUqdLycA")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001726693463) 
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001726693463") 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Telegr_ph_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5546782503"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
