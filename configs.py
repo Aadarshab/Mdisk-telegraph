@@ -5,11 +5,11 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "24236993"))
-    API_HASH = os.getenv("API_HASH", "0a56df2f25eefcace1c2e8948106dd66")
+    API_ID = int(os.getenv("API_ID", "20050354"))
+    API_HASH = os.getenv("API_HASH", "ab6695e733fd8c7d6632ed990d530502")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5973272980:AAGTcWKkcbsNBgEZ_K2ak-dSA8BIQh94K84")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Telegr_ph_bot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQAVhj8PZtprmp31CQAn9c1xMBa29Ct4Vvory4jyP1RrfTrDFexcxmkh-y16XL0PbTC7IcGM1qofMT8KLHQRdiiVqmCBMO2HsJZAvYsJhn1x6c9hcy0jndr6dqMPYZSX6zVmy1AJNVnjs8Jt5rwBIZeXt8ObhIsIxcJcuhyzSpbA4xq67YTBBKDo8N1IE8Ng8KZ6j8MkJgpDuM-2h5KEpiFUzWHCbu3SrKitEvaUot4g6I2g-CFxK3FdzGoG2QeIcCTVjNpv9uducuvTTRiHnEdF9QYWWVy_qyF6wnk90noarVssTDVkwphZHqfghazguLNJM1PCl86_wkhZAuzvjA9iAAAAAUqdLycA")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOLcBu538p1NFI9NzB6VufBEFYtw5ERSF5cTqLCAuL4kQU0xqKFCdHNIejC5frRbL398ZwZcOBnx31wQXbi9aBgFmKS3v11fHtwgq_w1PIxjRlB3uuwyebMMZ94QMNFMiYh9kRwpDRMN5z4ZcgoI7Eno1iAMJ8sJa_k19573oIUW-pCkRoKltqiy3bvyexZWqWnHG3FSdqEI1HwAastJ0oP1N1c0XkIwjuQRg-5B_aUpkkFFdkPbtzMKSuRVbUHZmxpPsFelrsWxPd0XytXl5do4eEuIRpOy2WPEC_IEUWhFA_C4lx9Zl0-m_UzJagLVwwkF6R4B76VEcr9oXzv6uTVCXd7U=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001726693463"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Telegr_ph_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5546782503"))
